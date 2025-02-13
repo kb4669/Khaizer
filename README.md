@@ -97,3 +97,9 @@ To learn more about React Native, take a look at the following resources:
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 nano README.md
 
+## Group Members
+- Khaizer Balabagan (Group Leader)
+- Khaizer Balabagan
+- Khaizer Balabagan
+- Khaizer Balabagan
+- Khaizer Balabagan
