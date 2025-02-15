@@ -97,4 +97,6 @@ To learn more about React Native, take a look at the following resources:
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 
 ## Group Members
-- Khaizer Balabagan (Solo)
+- Khaizer Balabagan 
+- Sarriah Mitch Lamoste
+- Daniella Gonzales
